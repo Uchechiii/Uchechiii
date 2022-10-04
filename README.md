@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Uchechiii
 - 👀 I’m interested in programming.
-- 🌱 I’m currently learning C
+- 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
