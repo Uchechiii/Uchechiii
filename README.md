@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Uchechiii
-- 👀 I’m interested in programming.
-- 🌱 I’m currently learning Java.
+- 👀 I’m interested in programming software.
+- 🌱 I’m currently learning Python. I have intermediate level proficiency in C++.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
